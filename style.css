@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+section{
+    
+  display: flex;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+span{
+    font-size: 50px;
+}
+small{
+    font-size: 20px;
+}
+#clock{
+  text-align: center;
+  color: white;
+}
